@@ -1,2 +1,3 @@
 # PoO-v-0.1
-A homebrew programming language
+A homebrew programming language designed as an introductory language. 
+
